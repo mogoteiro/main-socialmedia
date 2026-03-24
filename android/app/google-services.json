@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418409734333",
+    "project_id": "socmed-33036",
+    "storage_bucket": "socmed-33036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418409734333:android:7cc8107cec990a219557d4",
+        "android_client_info": {
+          "package_name": "com.example.soc_med_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSWddvoWu70F_7i1l3h2HZW5JQIvvot8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
